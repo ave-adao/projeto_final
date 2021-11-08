@@ -13,6 +13,4 @@ primary key (idadress)
 show tables;
 describe adress;
 describe students;
-alter table students;
-drop table students;
 show tables;
