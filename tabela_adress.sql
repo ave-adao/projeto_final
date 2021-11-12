@@ -2,7 +2,7 @@
 -- show tables;
 create table adress
 (
-idadress VARCHAR(100) NOT NULL,
+idadress INT(3) NOT NULL,
 street VARCHAR (150) NOT NULL,
  city VARCHAR (100) NOT NULL,
 state VARCHAR (100) NOT NULL,
